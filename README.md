@@ -1,7 +1,4 @@
-# MyERP
-
-[![Build Status](https://travis-ci.org/Toysurusse/Project-9-Test)](https://travis-ci.org/Toysurusse/Project-9-Test/)
-https://travis-ci.org/Toysurusse/Project-9-Test/builds/440088308
+# MyERP [![Build Status](https://travis-ci.org/Toysurusse/Project-9-Test.svg?branch=master)](https://travis-ci.org/Toysurusse/Project-9-Test)
 
 ## Organisation du répertoire
 
